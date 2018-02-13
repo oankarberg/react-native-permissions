@@ -1,0 +1,48 @@
+{
+  "_from": "git+https://github.com/yonahforst/react-native-permissions.git#6d2aa1e3352be5e151c6765783c38be0a465feb5",
+  "_id": "react-native-permissions@0.2.4",
+  "_inBundle": false,
+  "_location": "/react-native-permissions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-permissions@git+https://github.com/yonahforst/react-native-permissions.git#6d2aa1e3352be5e151c6765783c38be0a465feb5",
+    "name": "react-native-permissions",
+    "escapedName": "react-native-permissions",
+    "rawSpec": "git+https://github.com/yonahforst/react-native-permissions.git#6d2aa1e3352be5e151c6765783c38be0a465feb5",
+    "saveSpec": "git+https://github.com/yonahforst/react-native-permissions.git#6d2aa1e3352be5e151c6765783c38be0a465feb5",
+    "fetchSpec": "https://github.com/yonahforst/react-native-permissions.git",
+    "gitCommittish": "6d2aa1e3352be5e151c6765783c38be0a465feb5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/yonahforst/react-native-permissions.git#6d2aa1e3352be5e151c6765783c38be0a465feb5",
+  "_spec": "react-native-permissions@git+https://github.com/yonahforst/react-native-permissions.git#6d2aa1e3352be5e151c6765783c38be0a465feb5",
+  "_where": "/Users/oank/work/mvp-foodla",
+  "author": {
+    "name": "Yonah Forst",
+    "email": "yonaforst@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/joshblour/react-native-permissions/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Check user permissions in React Native",
+  "homepage": "https://github.com/joshblour/react-native-permissions",
+  "keywords": [
+    "react-native",
+    "react-permissions",
+    "permissions"
+  ],
+  "license": "MIT",
+  "main": "ReactNativePermissions",
+  "name": "react-native-permissions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshblour/react-native-permissions.git"
+  },
+  "version": "0.2.4"
+}
